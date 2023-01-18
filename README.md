@@ -1,8 +1,9 @@
 # Mass Translator
 
-### Description
 
 ![alt text](https://github.com/mastermh/Mass-Translator/blob/main/Presentation.png?raw=true)
+
+### Description
 
 This program is my dream dictionary that uses multiple databases.
 It allows us to have synonyms, persian meanings, definitions and examples of a words list from the best databases (at least in my opinion) in the market.
