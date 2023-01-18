@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/mastermh/Mass-Translator/blob/main/Presentation.png?raw=true)
 
-### Description
+## Description
 
 This program is my dream dictionary that uses multiple databases.
 It allows us to have synonyms, persian meanings, definitions and examples of a words list from the best databases (at least in my opinion) in the market.
@@ -11,7 +11,7 @@ This program uses <a href="https://www.thesaurus.com/">Thesaurus</a> for synonym
 
 
 
-### Requirements
+## Requirements
 
 - Python 3.x
 - Regex
