@@ -4,7 +4,7 @@
 
 # If your text file in the current directory is ready, you can extract its words data by running this file.
 # If you don't know how your text file should be, just checkout the link below:
-# Githhub: 
+# Githhub: https://github.com/mamishere/Mass-Translator
 
 import main
 
